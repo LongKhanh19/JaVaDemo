@@ -1,0 +1,4 @@
+com\mycompany\jwtdemoapp\controller\AuthController.class
+com\mycompany\jwtdemoapp\filter\JwtAuthenticationFilter.class
+com\mycompany\jwtdemoapp\config\SecurityConfig.class
+com\mycompany\jwtdemoapp\JwtDemoAppApplication.class
